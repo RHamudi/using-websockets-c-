@@ -1,0 +1,15 @@
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\bin\Debug\net7.0\cliente.exe
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\bin\Debug\net7.0\cliente.deps.json
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\bin\Debug\net7.0\cliente.runtimeconfig.json
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\bin\Debug\net7.0\cliente.dll
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\bin\Debug\net7.0\cliente.pdb
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\cliente.csproj.AssemblyReference.cache
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\cliente.AssemblyInfoInputs.cache
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\cliente.AssemblyInfo.cs
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\cliente.dll
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\refint\cliente.dll
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\cliente.pdb
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\cliente.genruntimeconfig.cache
+C:\Users\Ramon\Desktop\GitHub\WebSockets\cliente\obj\Debug\net7.0\ref\cliente.dll
